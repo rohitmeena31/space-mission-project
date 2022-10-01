@@ -1,3 +1,3 @@
 # space-mission-project
-##NOTE
-Use TABLEAU DESKTOP ]to open file.
+## NOTE
+Use TABLEAU DESKTOP to open file.
